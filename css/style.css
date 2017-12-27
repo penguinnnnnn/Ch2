@@ -1,0 +1,14 @@
+#whole {
+    max-width:860px;
+    margin: 0px auto;
+}
+
+#B1 {
+    
+    color: aqua
+}
+#menu {
+    display: inline-block;
+    list-style: none;
+    background-color: beige;
+}
