@@ -1,5 +1,5 @@
 .middle {
-    max-width:860px;
+    width:1024px;
     margin: 0px auto;
 }
 
@@ -11,7 +11,9 @@
     text-align: center;
     list-style: none;
     background-color: beige;
-    margin: 0px auto;
+    height: 16px;
+    margin: 0px 0px;
+    padding: 0px;
 }
 #menu > li  {
     text-align: center;
@@ -23,18 +25,22 @@ h1{
 }
 p{
     font-size: 16px;
-    line-height: 10px;
-    margin: 0px auto;
+    line-height: 20px;
+    text-align: center;
 }
 .btn{
 	background-color: #aaffdd;
-	line-height: 30px;
     text-align: center;
-    margin: 5px auto;
+    margin: 0px auto;
 }
 .footer
 {
     font-size: 14px;
     text-align:center;
     background-color: darkolivegreen;
+}
+
+.content {
+    background:darkkhaki;
+    margin: 0px;
 }
